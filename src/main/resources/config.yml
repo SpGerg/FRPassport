@@ -1,0 +1,19 @@
+pass:
+  - 'Имя: %pass_name%'
+  - 'Фамилия: %pass_surname%'
+  - 'Возраст: %pass_old%'
+  - 'Работа: %pass_work%'
+  - 'Пол: %pass_male%'
+
+pass_name: 'Паспорт'
+
+pass_dialog_name: 'Паспорт'
+
+give_pass_up: 'Игрок %player% просит у вас паспорт!'
+
+give_pass_down: 'Пропишите команду /pass accept чтобы дать паспорт.'
+
+deny_give_pass: 'Игрок %player% не дал вам паспорт!'
+
+nothing_give: 'У вас никто не просит паспорт!'
+

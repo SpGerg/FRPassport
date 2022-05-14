@@ -1,0 +1,11 @@
+name: FRPassport
+version: '${project.version}'
+main: main.spgerg.Main
+authors: [ SpGerg ]
+description: Passport plugin to FRP
+  
+depend: [PlaceholderAPI]
+
+commands:
+  pass:
+    usage:
